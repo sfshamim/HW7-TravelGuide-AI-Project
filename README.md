@@ -41,11 +41,10 @@ The application will open in a web browser where users can interact with the tra
 ## Security & Safe Sharing
 
 This repository follows safe sharing and security best practices:
-No API keys, tokens, or passwords are included
-No .env files are committed
-No personal or sensitive information is stored
-
-Secrets are expected to be managed securely outside the repository
+- No API keys, tokens, or passwords are included
+- No .env files are committed
+- No personal or sensitive information is stored
+- Secrets are expected to be managed securely outside the repository
 
 ## Professional Use Case
 
