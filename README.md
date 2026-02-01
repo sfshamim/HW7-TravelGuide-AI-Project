@@ -33,8 +33,7 @@ The application uses AI-generated responses to dynamically adapt plans based on 
 2. Install required dependencies
 3. Run the application using Streamlit:
 
-```bash```
-python -m streamlit run TravelGuide.py
+```bash``` python -m streamlit run TravelGuide.py
 
 The application will open in a web browser where users can interact with the travel planner.
 
